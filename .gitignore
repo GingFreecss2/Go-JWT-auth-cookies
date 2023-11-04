@@ -1,0 +1,6 @@
+# Ignore the executable files
+Go-jwt-auth.exe
+Go-jwt-auth.exe~
+
+# Ignore environment variables file
+.env
